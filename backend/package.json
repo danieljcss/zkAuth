@@ -57,6 +57,6 @@
     "solidity-coverage": "^0.8.2",
     "totp-generator": "^0.0.13",
     "typechain": "^8.1.0",
-    "web3-utils": "^1.9.0"
+    "web3-utils": "^1.10.1"
   }
 }
