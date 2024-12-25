@@ -27,7 +27,7 @@
     "fs": "^0.0.1-security",
     "hi-base32": "^0.5.1",
     "jsotp": "^1.0.4",
-    "next": "12.3.4",
+    "next": "14.2.15",
     "next-qrcode": "^2.2.0",
     "next-themes": "^0.2.1",
     "patch-package": "^6.4.7",
